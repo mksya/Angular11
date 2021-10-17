@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yonex Astrox",
+      "price": 199,
+      "quantity": 20,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Yonex Duora",
+      "price": 150,
+      "quantity": 30,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "Yonex Arcsaber",
+      "price": 150,
+      "quantity": 1,
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
