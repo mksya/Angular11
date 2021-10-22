@@ -94,4 +94,10 @@ export class ProductsComponent implements OnInit {
         
       }
 
+      onEdit(p:Product){
+        this.router.navigateByUrl("/editProduct/"+p.id);
+        
+      }
+
+
 }
